@@ -20,7 +20,7 @@ This project is part of my FreeCodeCamp Frontend Development Libraries certifica
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/markdown-editor.git
+   git clone https://github.com/iyolaoyabiyi/markdown-editor.git
    ```
 
 2. Navigate to the project directory:
